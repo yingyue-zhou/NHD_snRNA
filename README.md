@@ -1,6 +1,6 @@
 # NHD_snRNA
 
-This repository contains the code used for snRNA-seq analysis by Zhou et al. (2022) of Nasu-Hakola Disease (NHD) patient brains. 
+This repository contains the code used for snRNA-seq analysis by Zhou et al. (2023) of Nasu-Hakola Disease (NHD) patient brains published in Nature Immunology. https://www.nature.com/articles/s41590-022-01403-y 
 
 ## Code
 Included are the codes necessary to replicate the analyses.
